@@ -1,0 +1,18 @@
+package io.di;
+
+public class Emp {
+private String name;
+private Salary sal;
+
+public void setSal(Salary sal) {
+	
+}
+
+
+
+
+
+
+
+
+}

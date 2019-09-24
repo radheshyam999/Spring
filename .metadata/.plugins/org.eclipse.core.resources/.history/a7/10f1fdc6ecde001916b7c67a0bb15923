@@ -1,0 +1,13 @@
+package io;
+
+public class Main {
+
+	
+	
+	public static void main(String... s) {
+		B b =  new B();
+		b.letLearn();
+		A a = (A)b;
+		
+	  }
+}

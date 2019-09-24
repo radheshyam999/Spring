@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package simple.hj;
+
+/**
+ * @author ADMIN
+ *
+ */
+public class CoInjection {
+	private int da;
+	private int ta;
+     private LetTest let;
+	public CoInjection(LetTest let){
+		this.let =let;		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+}

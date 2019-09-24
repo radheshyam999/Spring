@@ -1,0 +1,13 @@
+package kill;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        AbastractApplicationContext context 
+    }
+}

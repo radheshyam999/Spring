@@ -1,0 +1,17 @@
+package simple.hj;
+
+import javax.swing.plaf.basic.BasicIconFactory;
+
+import org.springframework.core.io.FileSystemResource;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+      BeanFacrory bf = XmlBeanFactory(new FileSystemResource())
+    }
+}

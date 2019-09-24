@@ -1,0 +1,13 @@
+package io.h;
+
+public class CoInjection {
+   private String do;
+	private Emp emp;
+	
+	
+	
+	
+	
+	
+	
+}

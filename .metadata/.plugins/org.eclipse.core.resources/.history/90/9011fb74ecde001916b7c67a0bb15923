@@ -1,0 +1,11 @@
+package io;
+
+public class Main {
+
+	
+	
+	public static void main(String... s) {
+		B b = (B) new A();
+		
+	  }
+}

@@ -1,0 +1,16 @@
+package io;
+
+public class B extends A{
+
+	public void show() {
+		System.out.println("child class");
+	}
+	
+	public static void main(String... s) {
+		
+	
+	}
+	
+	
+	
+}

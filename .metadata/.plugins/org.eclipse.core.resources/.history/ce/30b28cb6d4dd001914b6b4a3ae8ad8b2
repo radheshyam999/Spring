@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package simple.hj;
+
+/**
+ * @author ADMIN
+ *
+ */
+public class CoInjection {
+	LetTest let;
+	public CoInjection(LetTest let){
+		this.let =let;
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,13 @@
+package io;
+
+public class Emp {
+private String name;
+	
+	
+   public void init() {
+	
+      }
+   public void destory() {
+	
+        }
+}

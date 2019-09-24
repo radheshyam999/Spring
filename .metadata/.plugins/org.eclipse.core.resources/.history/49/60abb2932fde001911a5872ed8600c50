@@ -1,0 +1,11 @@
+package io;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class EmpConfig {
+ @Bean(initmethod="init",destorymethod="destory")
+ @scope
+ 
+	
+}

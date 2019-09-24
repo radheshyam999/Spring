@@ -1,0 +1,10 @@
+package io;
+
+public class Emp {
+public void init() {
+	
+}
+public void destory() {
+	
+}
+}

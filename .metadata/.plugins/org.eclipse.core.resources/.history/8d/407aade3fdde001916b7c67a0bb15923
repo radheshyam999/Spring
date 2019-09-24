@@ -1,0 +1,13 @@
+package io;
+
+import org.springframework.beans.factory.annotation.Configurable;
+
+@Configurable
+public class EmpConfig {
+
+	@Bean
+	Emp emp() {
+		return new Emp();
+	}
+	
+}

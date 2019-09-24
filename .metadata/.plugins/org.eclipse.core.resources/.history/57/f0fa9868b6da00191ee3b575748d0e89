@@ -1,0 +1,11 @@
+package io.di;
+
+public class Salary {
+
+	private int Ta;
+	private int Da;
+	private int basic;
+	
+	
+	
+}

@@ -1,0 +1,13 @@
+package simple.hj;
+public class LetTest {
+
+	
+	void print() {
+		System.out.println("hello spring");
+	}
+	
+	
+	
+	
+	
+}

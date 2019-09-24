@@ -1,0 +1,14 @@
+package simple.hj;
+import org.springframework.*;
+public class LetTest {
+
+	
+	void print() {
+		System.out.println("hello spring");
+	}
+	
+	
+	
+	
+	
+}

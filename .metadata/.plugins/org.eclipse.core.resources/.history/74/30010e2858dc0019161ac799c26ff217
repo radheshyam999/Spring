@@ -1,0 +1,5 @@
+package io.h;
+
+public class CoInjection {
+
+}

@@ -1,0 +1,9 @@
+package io;
+
+public class EMp {
+
+	
+	
+	private String  name;
+	private int age;
+}

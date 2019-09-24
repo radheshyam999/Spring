@@ -1,0 +1,7 @@
+package haver;
+
+public class Emp {
+  private String name;
+	
+	
+}

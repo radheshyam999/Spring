@@ -1,0 +1,5 @@
+package io;
+@configrutation
+public class EmpConfig {
+
+}
