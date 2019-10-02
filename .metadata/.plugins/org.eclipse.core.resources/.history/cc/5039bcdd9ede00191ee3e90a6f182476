@@ -1,8 +1,0 @@
-package io;
-
-public class Salary {
- private int ta,da,basic;
-	
-	
-	
-}

@@ -1,9 +1,0 @@
-package io;
-
-public class EMp {
-
-	
-	
-	private tring  name;
-	private int age;
-}

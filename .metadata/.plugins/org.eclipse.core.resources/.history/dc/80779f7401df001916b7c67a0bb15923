@@ -1,9 +1,0 @@
-package io;
-
-import org.springframework.context.ApplicationListener;
-
-public class StopEventHandling implements ApplicationListenerner<ContextStartEvent> {
-
-	
-	
-}

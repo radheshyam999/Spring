@@ -1,5 +1,0 @@
-package io;
-@configuration
-public class EmpConfig {
-
-}
