@@ -2,8 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="F:\Javaee\Spring\DI"/>
-			<item value="F:\Javaee\Spring\pro"/>
+			<item value="C:\Users\Admin\Desktop\Spring\Learaning\src\main\beans.xml"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -15,7 +14,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item key="catalog" value="All Catalogs"/>
+		<item key="catalog" value="internal"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -27,27 +26,33 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="io"/>
+			<item value="io.ExampleFive"/>
+			<item value="io.ExampleFour"/>
+			<item value="io.Example"/>
+			<item value="io.ExampleTwo"/>
+			<item value="io.mhspring"/>
+			<item value="io.springStarted"/>
+			<item value="io.Learaning"/>
+			<item value="io.XLParser"/>
+			<item value="Abc.io"/>
+			<item value="gold.co"/>
 		</list>
 		<list key="groupId">
-			<item value="30-9-2019-pro"/>
-			<item value="26-9-2019-Dao1"/>
-			<item value="26-9-2019-Dao"/>
-			<item value="25-9-19Data"/>
-			<item value="25-9-19Dao"/>
-			<item value="Spring-24-09-19Event"/>
-			<item value="Spring-24-09-19-pro2"/>
-			<item value="Spring-24-09-19-pro1"/>
+			<item value="io"/>
+			<item value="Abc"/>
+			<item value="gold"/>
 		</list>
 		<list key="artifactId">
-			<item value="30-9-2019-pro"/>
-			<item value="26-9-2019-Dao1"/>
-			<item value="26-9-2019-Dao"/>
-			<item value="25-9-19Data"/>
-			<item value="25-9-19Dao"/>
-			<item value="Spring-24-09-19Event"/>
-			<item value="Spring-24-09-19-pro2"/>
-			<item value="Spring-24-09-19-pro1"/>
+			<item value="ExampleFive"/>
+			<item value="ExampleFour"/>
+			<item value="Example"/>
+			<item value="ExampleTwo"/>
+			<item value="mhspring"/>
+			<item value="springStarted"/>
+			<item value="Learaning"/>
+			<item value="XLParser"/>
+			<item value="io"/>
+			<item value=".co"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -58,7 +63,7 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
-			<item value="1.0.0-SNAPSHOT"/>
+			<item value="1-SNAPSHOT"/>
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
@@ -85,29 +90,6 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
-	<section name="wizardPage">
-		<list key="groupId">
-			<item value="pro"/>
-		</list>
-		<list key="name">
-		</list>
-		<list key="artifactId">
-			<item value="pro"/>
-		</list>
-		<list key="version">
-			<item value="1.0.0-SNAPSHOT"/>
-		</list>
-	</section>
-	<section name="MavenModuleWizardParentPage">
-		<list key="moduleName">
-		</list>
-		<list key="projectNameTemplate">
-			<item value="[artifactId]"/>
-			<item value="[artifactId]-TRUNK"/>
-			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
-			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
-		</list>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
 </section>

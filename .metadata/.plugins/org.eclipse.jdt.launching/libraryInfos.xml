@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
-<libraryInfo home="C:\Program Files\Java\jdk1.8.0_131" version="1.8.0_131">
-<bootpath>
-<entry path="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar"/>
-<entry path="C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar"/>
-<entry path="C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar"/>
-<entry path="C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar"/>
-<entry path="C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar"/>
-<entry path="C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar"/>
-<entry path="C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar"/>
-<entry path="C:\Program Files\Java\jdk1.8.0_131\jre\classes"/>
-</bootpath>
-<extensionDirs>
-<entry path="C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext"/>
-<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
-</extensionDirs>
-<endorsedDirs>
-<entry path="C:\Program Files\Java\jdk1.8.0_131\jre\lib\endorsed"/>
-</endorsedDirs>
-</libraryInfo>
+    <libraryInfo home="C:\Program Files\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\jre" version="17.0.3"/>
+    <libraryInfo home="C:\Program Files\Java\jdk-17.0.5" version="17.0.5"/>
+    <libraryInfo home="C:\Program Files\Java\jdk-11.0.16\bin" version="11.0.16"/>
+    <libraryInfo home="C:\Program Files\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416" version="17.0.3"/>
+    <libraryInfo home="C:\Program Files\Java\jdk-11.0.16" version="11.0.16"/>
 </libraryInfos>
